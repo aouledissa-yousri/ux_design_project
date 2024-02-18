@@ -1,0 +1,52 @@
+1. Présentation du projet:
+
+   Le projet "TunisieNatureCamps" consiste à développer une plateforme dedié à la réservation d'offres de camping d'une maniére rapide et simple.
+
+   Cette plateforme consiste de deux applications:
+      * Une site web:
+
+        Cela offre une expérience étendue, avec une ecran plus large il est possible de présenter des images de haute qualité et des informations plus detaillés concernant les offres.
+        Ce qui aide les utilisateur a prendre le meilleur décision.
+
+      * Une application mobile:
+
+        La version mobile offre une accéssibilité maximale permettant aux utilisateurs d'accéder aux services fourni par la plateforme dans n'importe où et à tout moment ce qui est essentiel aux voyagers mobiles. cette accéssibilité maximale permet aux utilisateurs d'étre à jour à travers d'envoi des notifications push aux appareils mobiles
+
+
+
+2. Objectifs:
+
+    * Simplifier le processus de réservation
+    * Faciliter la recherche des offres
+    * Fournir des informations détaillés
+    * Élargir le public cible et attirer le nombre maximale des clients
+    * Augmenter la satisfaction des clients
+
+
+
+
+3. Cibles:
+
+  * Amateurs de camping: les personnes passionnées par le camping, qu'il s'agisse de campeurs expérimentés ou de novices à la recherche d'une expérience en plein air.
+    - sexe: hommes et femmes
+    - age: 18-65
+    - Type: individuel ou groupe
+
+  * Familles: les parents à la recherche de vacances en plein air pour leurs enfants.
+    - sexe: hommes et femmes
+    - age: 25-65 (parents)
+           7-18  (enfants)
+
+    - Type: groupe
+
+
+
+
+4. Principaux concurrents
+
+  * HipCamp
+  * Recreation.gov
+  * Aventoura.tn
+
+
+
